@@ -1,0 +1,10 @@
+alias ga='git add'
+alias gc='git commit'
+alias gs='git status'
+alias gl='git log --oneline --graph --decorate'
+alias gp='git push'
+alias gpl='git pull'
+alias gb='git branch'
+alias gco='git checkout'
+
+alias pyimain='pyinstaller --noconsole --onefile main.py'
